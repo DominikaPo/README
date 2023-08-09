@@ -1,3 +1,18 @@
+/*"Herbal-Drug InteractScan" (HDIS)
+The HDIS App is a user-friendly C++ application designed to provide essential 
+information about herbs, medicines, and potential interactions between them. The app offers two main functionalities 
+accessible from the main menu:
+Herbal Information:
+Users can explore a comprehensive list of herbs and their associated properties. The app provides descriptions of each herb, 
+including its traditional uses, potential benefits. This section serves as a valuable resource for users seeking to learn 
+more about herbal remedies.
+Drug-Herb Interaction Analysis:
+This feature enables users to select a specific medicine from a list of available options and a corresponding herb from 
+another list. The app then analyzes the potential interactions between the chosen drug and herb. By utilizing a 
+sophisticated algorithm, the app identifies any potential conflicts, synergies, or contraindications between the 
+substances. The analysis provides users with valuable insights into how combining certain drugs and herbs might 
+impact their effectiveness or safety.*/
+
 #include <iostream>
 #include <string>
 using namespace std;
