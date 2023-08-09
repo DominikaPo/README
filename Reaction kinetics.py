@@ -1,3 +1,8 @@
+#"Reaction kinetic"
+#The "Reaction kinetic" application allows analysis of experimental data - measuring changes 
+#in absorbance over time and determining observable reaction rate constants. On the basis of 
+#the obtained data, it plots concentration and temperature dependencies extracting thermodynamic 
+#and kinetic parameters of the reaction.
 
 print('**')
 print('**')
